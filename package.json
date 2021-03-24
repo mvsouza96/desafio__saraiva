@@ -1,0 +1,22 @@
+{
+  "name": "cy_test",
+  "version": "1.0.0",
+  "description": "Teste automatizado para o Desafio Vitta",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vitta",
+    "devtester",
+    "desafio"
+  ],
+  "author": "Marcos Souza",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2"
+  },
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
